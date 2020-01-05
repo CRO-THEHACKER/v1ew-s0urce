@@ -18,7 +18,7 @@ print('''
 ██╔══╝  ╚════██║██║   ██║██║     ██║██╔══╝     ██║     ╚██╔╝   ╚═══██╗
 ██║     ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║   ██████╔╝
 ╚═╝     ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝   ╚═════╝ 
-         python3 build - version: 1.0 - Last update: 1/4/20                                                    
+         python3 build - version: 1.3 - Last update: 1/4/20                                                    
             
              }---{Made by CRO-THEHACKER & Manisso}---{
         }---{https://github.com/CRO-THEHACKER/fsociety3}---{
