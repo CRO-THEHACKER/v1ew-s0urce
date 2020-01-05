@@ -1,7 +1,7 @@
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/CRO-THEHACKER/fsociety3/blob/master/LICENSE) ![Os](https://img.shields.io/badge/Platform-Linux%20%7C%20OSX%20%7C%20Windows%20%7C%20Android-orange.svg)
 [![python](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/downloads/release/python-381/)
 # Fsociety Hacking Tools Pack – A Penetration Testing Framework
-A Penetration Testing Framework , you will have evry script that a hacker needs
+A Penetration Testing Framework, you will have every script that a hacker needs
 # Fsociety Contains All Tools Used In Mr Robot Series
 ![alt tag](http://nikolaskama.me/content/images/2016/07/mr-robot-1.gif)
 # Menu
@@ -91,16 +91,6 @@ A Penetration Testing Framework , you will have evry script that a hacker needs
 <code>git clone https://github.com/CRO-THEHACKER/fsociety3.git</code><br>
 
 <code>cd fsociety && ./INSTALL</code><br>
-
-[◉] 0 : INSTALL & UPDATE
-
-[◉] -> 0
-
-[✓] press 0
-
-[✓] Congratulation Fsociety is Installed !
-
-[+] Follow This Video [HackerSploit](https://www.youtube.com/watch?v=t3uYpMrK2EU)
 
 
 # Installation [Android](https://fr.wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
