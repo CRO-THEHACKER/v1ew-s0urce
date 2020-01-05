@@ -94,7 +94,7 @@ For any help or just to join; please join our discord:
 # Installation [Linux](https://fr.wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 <code>git clone https://github.com/CRO-THEHACKER/fsociety3.git</code><br>
 
-<code>cd fsociety && ./INSTALL</code><br>
+<code>cd fsociety3 && ./INSTALL</code><br>
 
 
 # Installation [Android](https://fr.wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
