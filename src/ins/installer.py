@@ -38,7 +38,7 @@ while True:
         os.system('sudo bash install.sh')
         sys.exit(1)
     elif opt == '2':
-        os.system('sudo bash update/sh')
+        os.system('sudo bash update.sh')
         print("FSOCIETY3: STAT_CODE=DONE")
         sys.exit(1)
     elif opt == '3':
