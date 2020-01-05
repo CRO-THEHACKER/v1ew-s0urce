@@ -110,7 +110,7 @@ A Penetration Testing Framework , you will have evry script that a hacker needs
 
 [✔] Download Linux Bash Like [Cygwin](https://www.cygwin.com/)
 
-[✔] Download [![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
+[✔] Download [![python](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
 
 [✔] Or Use Google Cloud Console [Cloud Shell](https://console.cloud.google.com/cloudshell/editor?project=&pli=1&shellonly=true)
 
