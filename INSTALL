@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# bare python3 install to run installer
+
+echo "
+    
+    INSTALLING PYTHON3 FOR INSTALLER...
+
+
+LSB Output:"
+lsb_release -a
+echo "
+
+    
+"
+if [ "$PREFIX" = "/data/data/com.termux/files/usr" ]; then
+    # Termux
+    pkg install -y git python2
+elif [ "$(uname)" = "Darwin" ]; then
+    # OSX
+    brew install python3
+else
+    # Debian like
+    sudo apt-get install -y git python3
+fi
+cd src/ins
+python3 installer.py
