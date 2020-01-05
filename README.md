@@ -4,6 +4,10 @@
 A Penetration Testing Framework, you will have every script that a hacker needs
 # Fsociety Contains All Tools Used In Mr Robot Series
 ![alt tag](http://nikolaskama.me/content/images/2016/07/mr-robot-1.gif)
+
+# JOIN THE DISCORD!
+For any help or just to join; please join our discord:
++ [Discord](https://discord.gg/BaBpuPn)
 # Menu
 + Information Gathering
 + Password Attacks
