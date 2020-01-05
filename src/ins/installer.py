@@ -48,6 +48,9 @@ while True:
     elif opt == '4':
         print(""" 
         
+        Join the discord and go to the #py3s-fs for help
+        
+        https://discord.gg/BaBpuPn
         
         """)
         sys.exit(1)
