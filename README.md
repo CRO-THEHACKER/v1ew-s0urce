@@ -1,5 +1,5 @@
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/CRO-THEHACKER/fsociety3/blob/master/LICENSE) ![Os](https://img.shields.io/badge/Platform-Linux%20%7C%20OSX%20%7C%20Windows%20%7C%20Android-orange.svg)
-[![python](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
+[![python](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/downloads/release/python-381/)
 # Fsociety Hacking Tools Pack – A Penetration Testing Framework
 A Penetration Testing Framework , you will have evry script that a hacker needs
 # Fsociety Contains All Tools Used In Mr Robot Series
@@ -110,7 +110,7 @@ A Penetration Testing Framework , you will have evry script that a hacker needs
 
 [✔] Download Linux Bash Like [Cygwin](https://www.cygwin.com/)
 
-[✔] Download [![python](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
+[✔] Download [![python](https://img.shields.io/badge/python-3-brightgreen.svg)](https://www.python.org/downloads/release/python-381/)
 
 [✔] Or Use Google Cloud Console [Cloud Shell](https://console.cloud.google.com/cloudshell/editor?project=&pli=1&shellonly=true)
 
