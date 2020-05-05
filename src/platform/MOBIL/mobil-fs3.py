@@ -75,9 +75,6 @@ def menu():
 
 
 clearScr()
-clearScr()
-clearScr()
-clearScr()
 
 directories = ['/uploads/', '/upload/', '/files/', '/resume/', '/resumes/', '/documents/', '/docs/', '/pictures/', '/file/', '/Upload/', '/Uploads/', '/Resume/', '/Resume/', '/UsersFiles/', '/Usersiles/', '/usersFiles/', '/Users_Files/', '/UploadedFiles/',
                '/Uploaded_Files/', '/uploadedfiles/', '/uploadedFiles/', '/hpage/', '/admin/upload/', '/admin/uploads/', '/admin/resume/', '/admin/resumes/', '/admin/pictures/', '/pics/', '/photos/', '/Alumni_Photos/', '/alumni_photos/', '/AlumniPhotos/', '/users/']
@@ -213,7 +210,7 @@ def brutex():
     clearScr()
     print("Automatically brute force all services running on a target : Open ports / DNS domains / Usernames / Passwords ")
     os.system("git clone https://github.com/1N3/BruteX.git")
-    clearScr
+    clearScr()
     brutexchoice = input("Select a Target : ")
     os.system("cd BruteX && chmod 777 brutex && ./brutex %s" % brutexchoice)
 
@@ -221,7 +218,7 @@ def brutex():
 def arachni():
     print("Arachni is a feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators evaluate the security of web applications")
     cara = input("Install And Run ? Y / N : ")
-    clearScr
+    clearScr()
     print("exemple : http://www.target.com/")
     tara = input("Select a target to scan : ")
     if cara in yes:
