@@ -46,7 +46,10 @@ from xml.dom import minidom
 from optparse import OptionParser
 from time import sleep
 ##########################
-os.system('clear')
+def clearScr():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+clearScr()
 
 
 def menu():
@@ -71,10 +74,10 @@ def menu():
                                                """)
 
 
-os.system('clear')
-os.system('clear')
-os.system('clear')
-os.system('clear')
+clearScr()
+clearScr()
+clearScr()
+clearScr()
 
 directories = ['/uploads/', '/upload/', '/files/', '/resume/', '/resumes/', '/documents/', '/docs/', '/pictures/', '/file/', '/Upload/', '/Uploads/', '/Resume/', '/Resume/', '/UsersFiles/', '/Usersiles/', '/usersFiles/', '/Users_Files/', '/UploadedFiles/',
                '/Uploaded_Files/', '/uploadedfiles/', '/uploadedFiles/', '/hpage/', '/admin/upload/', '/admin/uploads/', '/admin/resume/', '/admin/resumes/', '/admin/pictures/', '/pics/', '/photos/', '/Alumni_Photos/', '/alumni_photos/', '/AlumniPhotos/', '/users/']
@@ -111,7 +114,7 @@ def menu():
 
     """)
     choice = input("-> ")
-    os.system('clear')
+    clearScr()
     if choice == "1":
         info()
     elif choice == "2":
@@ -167,7 +170,7 @@ def postexp():
     print("3:  Phishing Framework \n")
     print("99: Return to main menu \n ")
     choice11 = input("-> ")
-    os.system('clear')
+    clearScr()
     if choice11 == "1":
         sitechecker()
     if choice11 == "2":
@@ -312,7 +315,7 @@ def venom():
         os.system("unzip venom.zip -d venom")
         os.system("cd venom && sh venom.sh")
     elif choiceshell in no:
-        os.system('clear')
+        clearScr()
         info()
 
 
@@ -326,7 +329,7 @@ def commix():
         os.system("python commix.py")
         os.system("")
     elif choicecmx in no:
-        os.system('clear')
+        clearScr()
         info()
 
 
@@ -459,7 +462,7 @@ def nmap():
 
 
 def jboss():
-    os.system('clear')
+    clearScr()
     print ("This JBoss script deploys a JSP shell on the target JBoss AS server. Once")
     print ("deployed, the script uses its upload and command execution capability to")
     print ("provide an interactive session.")
@@ -471,7 +474,7 @@ def jboss():
         os.system(
             "git clone https://github.com/SpiderLabs/jboss-autopwn.git"), sys.exit()
     elif choice9 in no:
-        os.system('clear')
+        clearScr()
         exp()
     elif choice9 == "":
         menu()
@@ -520,7 +523,7 @@ def sqlmap():
         os.system(
             "git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev & ")
     elif choice8 in no:
-        os.system('clear')
+        clearScr()
         info()
     elif choice8 == "":
         menu()
@@ -772,7 +775,7 @@ def info():
     print("99: Back To Main Menu \n")
     choice2 = input("-> ")
     if choice2 == "1":
-        os.system('clear')
+        clearScr()
         nmap()
     if choice2 == "2":
         clearScr()
@@ -930,7 +933,7 @@ def exp():
         clearScr()
         sqlmap()
     if choice5 == "1":
-        os.system('clear')
+        clearScr()
         venom()
     if choice5 == "3":
         clearScr()
@@ -1047,7 +1050,7 @@ def clearScr():
     windows
     """
     if system() == 'Linux':
-        os.system('clear')
+        clearScr()
     if system() == 'Windows':
         os.system('cls')
 
