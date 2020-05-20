@@ -1,6 +1,0 @@
-#!/bin/bash
-
-echo "Starting web server..."
-sudo bash src/webser/autostart.sh
-echo "Running FSociety3..."
-fsociety3
